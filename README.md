@@ -18,7 +18,7 @@ The webpage was created for an assignment where full Stack Students had to take 
 N/A
 
 ## Image Preview Mock-up
-![Website Preview Image](/cynthias-master-refactor/assets/images/01-html-css-git-homework-demo.png)
+![Website Preview Image](/assets/images/01-html-css-git-homework-demo.png)
 
 ## Technologies Used
 
