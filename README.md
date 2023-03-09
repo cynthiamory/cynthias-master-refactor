@@ -37,7 +37,9 @@ Assignment was built with:
 - Institution: The University Of Toronto
 - Course: Bootcamp Full Stack Development
 - Instructor: Ali Masqood
-
+- Learing Assistant: Marven250
+- Tutor: Jose Lopez
+- Peer Support: Austin Grech, James Kim, Shanel Beebe
 
 ## Link URL to deployed webpage on GitHub
 n/a
