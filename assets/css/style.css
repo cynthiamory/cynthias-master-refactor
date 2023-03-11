@@ -1,3 +1,4 @@
+/* general styling */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -6,6 +7,10 @@
 
 body {
     background-color: #d9dcd6;
+}
+
+p {
+    font-size: 16px;
 }
 
 /* header navigation */
@@ -38,21 +43,16 @@ header nav ul {
     list-style-type: none;
 }
 
-header nav li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
 /* Navigation link style */
 
-:any-link {
+a {
     color: #ffffff;
     text-decoration: none;
-}
-
-/* text within content styling */
-p {
-    font-size: 16px;
 }
 
 .hero {
@@ -88,7 +88,7 @@ main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* SEO, Online Reputation and Social Media Card Alighment for the Main section */
+/* SEO, online reputation and social media image alighment for the main section */
 
 .float-left {
     float: left;
@@ -101,7 +101,7 @@ main h2 {
 }
 
 /* this the benefits styling, lead generation, brand awareness and cost management */
-aside {
+.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
